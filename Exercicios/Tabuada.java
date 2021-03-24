@@ -17,6 +17,6 @@ class Tabuada {
         System.out.println(numero+"+"+i+"="+(numero+i));
     }
         
-    entrada.close();
+
     }
   }
