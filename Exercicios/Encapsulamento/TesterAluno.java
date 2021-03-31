@@ -1,4 +1,4 @@
-package Encapsulamento;
+package Exercicios.Encapsulamento;
 
 import java.util.Scanner;
 public class TesterAluno {

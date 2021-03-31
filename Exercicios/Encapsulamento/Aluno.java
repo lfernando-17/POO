@@ -1,4 +1,4 @@
-package Encapsulamento;
+package Exercicios.Encapsulamento;
 
 import java.util.Scanner;
 public class Aluno{
@@ -7,11 +7,11 @@ public class Aluno{
     private String curso;
     Scanner input= new Scanner(System.in);
     public Aluno(){
-        System.out.printf("Nome do Aluno: ");
+        System.out.println("Nome do Aluno: ");
         this.nome= input.next();
-        System.out.printf("Matricula: ");
+        System.out.println("Matricula: ");
         this.matricula= input.nextInt();
-        System.out.printf("Curso: ");
+        System.out.println("Curso: ");
         this.curso= input.next();
         if (curso.equalsIgnoreCase("si")) {
             this.curso= "Sistemas de Informação";

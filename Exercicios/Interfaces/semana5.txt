@@ -1,0 +1,15 @@
+1 - Arraylist
+2 - Try Catch
+3 - Interfaces
+
+
+1.1 - Criar uma classe em java chamado Acao.java, 
+    com os seguintes atributos privados:
+    - nome (string)
+    - preco (float)
+    - valorizacao (float)
+
+    -criar o metodo get/set de todos atributos:
+
+ 1.2 - Criar classe Ibovespa.java para testar a Acao
+    
